@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/shopeemui/static/js/main.caa43134.js",
+    "static/media/faizan.jpg": "/shopeemui/static/media/faizan.e7840ea3d5beba1352ed.jpg",
+    "index.html": "/shopeemui/index.html",
+    "main.caa43134.js.map": "/shopeemui/static/js/main.caa43134.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.caa43134.js"
+  ]
+}
